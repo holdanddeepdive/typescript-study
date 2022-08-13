@@ -25,7 +25,9 @@
 
 주차 | 챕터 | 관련 이슈 | 스마님
 :---: | :---: | --- | :---:
-1주차 | [TypeScript_DeepDive](https://basarat.gitbook.io/typescript/type-system) | | hyunahOh
+1주차 | [TypeScript_DeepDive](https://basarat.gitbook.io/typescript/type-system) | [1주차](https://github.com/holdanddeepdive/typescript-study/issues/1) | hyunahOh
+2주차 | [easy문제 13개 풀어오기](https://github.com/type-challenges/type-challenges) | | sbyeol3
+
 
 ## 6. 다음에 하고 싶은 주제 제안 목록
 - ~~타입스크립트~~
