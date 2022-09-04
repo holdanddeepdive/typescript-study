@@ -28,7 +28,7 @@
 1주차 | [TypeScript_DeepDive](https://basarat.gitbook.io/typescript/type-system) | [1주차](https://github.com/holdanddeepdive/typescript-study/issues/1) | hyunahOh
 2주차 | [easy문제 13개 풀어오기](https://github.com/type-challenges/type-challenges) | [2주차](https://github.com/holdanddeepdive/typescript-study/issues?q=is%3Aissue+is%3Aopen+2%EC%A3%BC%EC%B0%A8) | sbyeol3
 3주차 | [Medium 2, 3, 8, 9, 10 풀기 & 각자 정리](https://github.com/type-challenges/type-challenges) |[3주차](https://github.com/holdanddeepdive/typescript-study/issues?q=is%3Aissue+is%3Aopen+3%EC%A3%BC%EC%B0%A8+) | Choozii
-
+4주차 | [generic의 as 이해하기]() | [4주차](https://github.com/holdanddeepdive/typescript-study/issues/14) | humonnom
 
 ## 6. 다음에 하고 싶은 주제 제안 목록
 - ~~타입스크립트~~
