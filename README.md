@@ -30,6 +30,7 @@
 3주차 | [Medium 2, 3, 8, 9, 10 풀기 & 각자 정리](https://github.com/type-challenges/type-challenges) |[3주차](https://github.com/holdanddeepdive/typescript-study/issues?q=is%3Aissue+is%3Aopen+3%EC%A3%BC%EC%B0%A8+) | Choozii
 4주차 | generic의 as 이해하기, 책 1장 | [4주차](https://github.com/holdanddeepdive/typescript-study/issues/14) | humonnom
 5주차 | 책 2장 아이템 12까지 | [2장(~아이템12까지) 정리](https://github.com/holdanddeepdive/typescript-study/issues/17) | hyunahOh
+6주차 | 책 2장 끝까지 | | sbyeol3
 
 ## 6. 다음에 하고 싶은 주제 제안 목록
 - ~~타입스크립트~~
