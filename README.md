@@ -31,7 +31,8 @@
 4주차 | generic의 as 이해하기, 책 1장 | [4주차](https://github.com/holdanddeepdive/typescript-study/issues/14) | humonnom
 5주차 | 책 2장 아이템 12까지 | [2장(~아이템12까지) 정리](https://github.com/holdanddeepdive/typescript-study/issues/17) | hyunahOh
 6주차 | 책 2장 끝까지 | [요약](https://github.com/holdanddeepdive/typescript-study/issues/19) | sbyeol3
-6주차 | 3장 아이템 23까지 | | Choozii
+6주차 | 3장 아이템 23까지 | [요약](https://github.com/holdanddeepdive/typescript-study/issues/20) | Choozii
+6주차 | 3장 아이템 끝까지 | | humonnom
 
 ## 6. 다음에 하고 싶은 주제 제안 목록
 - ~~타입스크립트~~
