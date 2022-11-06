@@ -34,7 +34,8 @@
 7주차 | 3장 아이템 23까지 | [요약](https://github.com/holdanddeepdive/typescript-study/issues/20) | Choozii
 8주차 | 3장 아이템 끝까지 | [요약](https://github.com/holdanddeepdive/typescript-study/issues/20) *이어서 작성 | humonnom
 9주차 | 4장 아이템 33까지 | | hyunahOh
-10주차 | 5장 아이템 40까지 | | sbyeol3
+10주차 | 5장 아이템 40까지 | [요약](https://github.com/holdanddeepdive/typescript-study/issues/21) | sbyeol3
+11주차 | 6장 아이템 47까지 |  | Choozii
 
 ## 6. 다음에 하고 싶은 주제 제안 목록
 - ~~타입스크립트~~
